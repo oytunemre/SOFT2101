@@ -1,1 +1,50 @@
 
+B)➜  ~ git:(main) ✗ git clone https://github.com/oytunemre/SOFT2101.git
+Cloning into 'SOFT2101'...
+remote: Enumerating objects: 10, done.
+remote: Counting objects: 100% (10/10), done.
+remote: Compressing objects: 100% (7/7), done.
+remote: Total 10 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (10/10), done.
+➜  ~ git:(main) ✗ pwd
+/Users/oytunemreozmel
+➜  ~ git:(main) ✗ ls
+AndroidStudioProjects      PlayOnMac's virtual drives
+Applications               Projects
+Creative Cloud Files       Public
+Desktop                    ReactProjects
+Documents                  SOFT2101
+Downloads                  Sites
+GoogleDrive                UnityProjects
+IdeaProjects               VirtualBox VMs
+Library                    VisualStudioProjects
+Movies                     cfn101-workshop
+Music                      eclipse
+MyApp                      eclipse-workspace
+NetBeansProjects           getting-started
+Pictures
+➜  ~ git:(main) ✗ cd/SOFT2101
+zsh: no such file or directory: cd/SOFT2101
+➜  ~ git:(main) ✗ cd /SOFT2101
+cd: no such file or directory: /SOFT2101
+➜  ~ git:(main) ✗ ls
+AndroidStudioProjects      PlayOnMac's virtual drives
+Applications               Projects
+Creative Cloud Files       Public
+Desktop                    ReactProjects
+Documents                  SOFT2101
+Downloads                  Sites
+GoogleDrive                UnityProjects
+IdeaProjects               VirtualBox VMs
+Library                    VisualStudioProjects
+Movies                     cfn101-workshop
+Music                      eclipse
+MyApp                      eclipse-workspace
+NetBeansProjects           getting-started
+Pictures
+➜  ~ git:(main) ✗ cd  SOFT2101
+➜  SOFT2101 git:(main) ls
+README.md hw4k
+➜  SOFT2101 git:(main) cd hw4k 
+➜  hw4k git:(main) ls
+homework4.txt
